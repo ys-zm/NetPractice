@@ -1,0 +1,11 @@
+Internet infrastructure
+Host: any system connected to the internet or any network (clients or servers)
+Client: asking for the data
+Server: stores and distributes data
+When a host wants to send data to another, it chops the data up and adds a few header bytes. The result is a group of packets that is sent through the network to the destination host. Upon reception, the receiver must then reassemble the packets and reconstruct the data.
+Most of the time, they need to go through switches and routers. The role of these two devices is to receive incoming packets and transfer them to the appropriate outgoing line. Typically, a switch operates inside a network whereas a router works as an interface between two different networks or sub-networks.
+Every host, router and switch is a network node. The consecutive relays that a packet goes through to arrive at its destination is its route.
+
+Internet Protocol Suite (IP)
+Data transfer on the internet is governed by a standardized suite of protocols.
+The internet protocol suite is often called "TCP/IP" which make up its two fundamental protocols: TCP(Transmission control Protocol) and IP (Internet Protocol).
