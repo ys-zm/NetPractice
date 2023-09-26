@@ -9,3 +9,7 @@ Every host, router and switch is a network node. The consecutive relays that a p
 Internet Protocol Suite (IP)
 Data transfer on the internet is governed by a standardized suite of protocols.
 The internet protocol suite is often called "TCP/IP" which make up its two fundamental protocols: TCP(Transmission control Protocol) and IP (Internet Protocol).
+
+
+Router
+A router's job is to connect networks. A switches role is to send packets to the correct MAC destination address. It fill up the CAM addresses with the MAC soruce address.
