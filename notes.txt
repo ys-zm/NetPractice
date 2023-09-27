@@ -9,3 +9,6 @@ Every host, router and switch is a network node. The consecutive relays that a p
 Internet Protocol Suite (IP)
 Data transfer on the internet is governed by a standardized suite of protocols.
 The internet protocol suite is often called "TCP/IP" which make up its two fundamental protocols: TCP(Transmission control Protocol) and IP (Internet Protocol).
+
+255        255        255        0
+11111111 11111111 11111111   00000000
