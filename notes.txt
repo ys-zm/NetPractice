@@ -12,3 +12,8 @@ The internet protocol suite is often called "TCP/IP" which make up its two funda
 
 255        255        255        0
 11111111 11111111 11111111   00000000
+/24
+
+Router
+A router's job is to connect networks. A switches role is to send packets to the correct MAC destination address. It fill up the CAM addresses with the MAC soruce address.
+
